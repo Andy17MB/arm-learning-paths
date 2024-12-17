@@ -2,11 +2,11 @@
 review:
     - questions:
         question: >
-            Which of the following is a key benefit of Snort3's multithreading support?
+            Which of the following is a key benefit of Snort 3's multithreading support?
         answers:
             - It allows Snort to detect encrypted traffic.
-            - It improves packet processing performance 
-            - It enables Snort to be run on legacy hardware
+            - It improves packet processing performance. 
+            - It enables Snort to be run on legacy hardware.
             - It support multiple rule sets at the same time.
         correct_answer: 2                    
         explanation: >
